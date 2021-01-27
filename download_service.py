@@ -8,7 +8,7 @@ import os
 import time
 from telethon.tl.types import DocumentAttributeFilename
 
-from telethon.telegram_client import TelegramClient
+from telethon.telegram_client import TelegramClientX
 from telegram_client_x import TelegramClientX
 from secret import *
 
